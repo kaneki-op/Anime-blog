@@ -9,7 +9,6 @@
 
 .mar {
    margin: 0 auto;
-   overflow-x: hidden;
    background: linear-gradient(to right, #F5C6AA,#F8E2CF,#FDF6F0,#FCD8D4);
    text-align: center;
    align-items: center;
